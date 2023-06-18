@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /css/
+Disallow: /secret-page.html
+Disallow: /infimore-images/*.jpg$
+Disallow: /infimore-images/*.jpeg$
+Disallow: /infimore-images/*.png$
+Disallow: /infimore-logo/*.jpg$
+Disallow: /infimore-logo/*.png$
+Disallow: /
+
+Sitemap: https://www.infimore.com/sitemap.xml
